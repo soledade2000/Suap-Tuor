@@ -17,6 +17,11 @@ Contribuições
 
 Licença
 
+
+///////////////////////
+
+
+
 Instruções de Instalação
 
 Certifique-se de ter o Node.js, o npm e o Expo CLI instalados em sua máquina.

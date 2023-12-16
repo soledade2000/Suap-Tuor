@@ -1,21 +1,21 @@
 SuapTour App
 Este é o repositório oficial do aplicativo SuapTour, uma aplicação móvel desenvolvida em React Native Expo. O aplicativo oferece funcionalidades de cadastro de usuário, sistema de login seguro e um mapa interativo com pontos de interesse no Porto de Suape, categorizados em lazer, comida e empresas.
 
-*Conteúdo
+Conteúdo
 
-*Instruções de Instalação
+Instruções de Instalação
 
-*Estrutura do Projeto
+Estrutura do Projeto
 
-*Configuração do Banco de Dados
+Configuração do Banco de Dados
 
-*Como Usar
+Como Usar?
 
-*Tecnologias Utilizadas
+Tecnologias Utilizadas
 
-*Contribuições
+Contribuições
 
-*Licença
+Licença
 
 Instruções de Instalação
 
